@@ -4,4 +4,4 @@
 ![](https://github.com/sujie0308/AFNnet--Request-encapsulation/blob/master/PostDemo/QQ20170414-http.png)
 
 
-技术交流群：https://jq.qq.com/?_wv=1027&k=47R3gzY
+技术交流群：543800703
